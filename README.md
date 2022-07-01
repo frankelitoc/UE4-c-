@@ -1,7 +1,7 @@
 # UE4-c--
-c++ external UE4 cheat w/ driver files
+c++ external UE4 trainer w/ kernel driver files
 
 
-manual map the driver using https://www.unknowncheats.me/forum/anti-cheat-bypass/387422-efi-memory-efi-mapper-efi-runtime-driver-fork-kdmapper.html
+manual map the driver using efi mapper
 
 have fun 
